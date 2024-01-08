@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    justify-content: center;
+    margin: 10% auto;
+    background-color: black;
+    color: lightgray;
+}
+
+a {
+    color: aquamarine;
+}
